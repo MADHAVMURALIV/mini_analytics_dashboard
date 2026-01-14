@@ -39,7 +39,7 @@ Built to demonstrate fast execution, clean UI, and practical data analysis under
 ---
 
 ## Project Structure
-
+```
 project/
 │
 ├── app.py
@@ -50,7 +50,7 @@ project/
 │
 └── README.md
 
-
+```
 ---
 
 ## Dataset Requirements
