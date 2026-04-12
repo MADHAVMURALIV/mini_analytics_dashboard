@@ -113,11 +113,11 @@ Insights Generated
 
 Notes
 
--> The application focuses on clarity and functionality over heavy styling
+-> The application focuses on clarity and functionality over heavy styling.
 
--> Designed to be completed and demonstrated within a short time window
+-> Designed to be completed and demonstrated within a short time window.
 
--> Suitable for quick analytics and exploratory insights
+-> Suitable for quick analytics and exploratory insights.
 
 
 
